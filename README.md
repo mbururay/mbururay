@@ -1,4 +1,4 @@
-# Hi, I'm Ray 👋
+# Hi, I'm Ray
 
 Computer Science student at TCU focused on building practical software and exploring AI.
 
