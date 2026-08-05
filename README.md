@@ -1,16 +1,16 @@
 # Hi, I'm Ray
 
-Computer Science student at TCU focused on building practical software and exploring AI.
+Computer Science student at TCU focused on building practical software solutions and exploring AI.
 
 ## What I’m working on
-- Building projects in Java and Python
+- Building projects in Java, Javascript and Python
 - Exploring AI and real-world applications
 - Improving problem-solving and system design skills
 
 ## Tech Stack
-- Languages: Java, Python
+- Languages: Java, Javascript, Python
 - Tools: Git, GitHub
-- Currently Learning: AI, backend development
+
 
 ## Contact
 https://www.linkedin.com/in/raymburu/
